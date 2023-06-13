@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "da9a3622-1e29-4f39-8e29-3b743b87f2ab",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/auth/knowledge/1/courses",
+    "url": "http://localhost:3000/auth/knowledge/1/courses",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-04-17T01:08:07.597Z",
+    "modified": "2023-04-17T01:08:07.597Z",
+    "headers": [],
+    "params": [],
+    "auth": {
+      "type": "bearer",
+      "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRFVzZXIiOiIxNDIwYTdhMy0zZmRjLTQyM2UtYmRmZS1hNDJmZGJkZWM5MWUiLCJleHAiOjE2ODE2OTYyMjIsImlkIjoiY2xvdWQifQ.Vw3WpKzwkRmvXFSjHyI8DtYayXSYdF4PouAqPYyLDYQ"
+    },
+    "tests": []
+  }
+]
